@@ -1,0 +1,44 @@
+sequenceDiagram
+    participant U as User
+    participant A as matching_agent.py (LangGraph)
+    participant C as MCP Client (MultiServerMCPClient)
+    participant S as filesystem_mcp_server.py
+    participant R as resumes/ (sandboxed FS)
+
+    U->>A: last_user_message = "jd_01.txt"
+
+    rect rgb(240, 248, 255)
+    Note over A,S: Startup - tool discovery
+    A->>C: get_tools()
+    C->>S: JSON-RPC: tools/list
+    S-->>C: [read_file, write_file, list_files, search_in_file, watch_directory, batch_process]
+    C-->>A: LangChain Tool objects
+    end
+
+    rect rgb(240, 255, 240)
+    Note over A,R: Node: parse_jd
+    A->>C: read_file_tool.ainvoke({text_file: "jd_01.txt"})
+    C->>S: JSON-RPC: tools/call {name: "read_file", ...}
+    S->>S: validate_path() - sandbox + extension check
+    S->>R: open("jd_01.txt")
+    R-->>S: file content
+    S-->>C: {content, success: true, metadata}
+    C-->>A: tool result (JD text)
+    end
+
+    A->>A: extract_requirements() (LLM call, no MCP)
+
+    rect rgb(255, 250, 240)
+    Note over A,R: Node: search_resumes
+    A->>C: write_file_tool.ainvoke({filepath: "temp_jd.txt", content: jd_text})
+    C->>S: JSON-RPC: tools/call {name: "write_file", ...}
+    S->>R: write temp_jd.txt
+    S-->>C: {success: true, filepath: "..."}
+    C-->>A: resolved absolute path
+    A->>A: match_resumes_to_job(temp_jd_path) (RAG search, non-MCP)
+    end
+
+    A->>A: generate_report(), final_recommendation() (LLM calls, no MCP)
+
+    A-->>U: Top candidates + verdicts
+    A->>U: human_feedback() loop (compare / explain / refine / end)

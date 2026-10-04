@@ -1,0 +1,24 @@
+Jasper Liu
+CONTACT
+Email: jliu@email.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/jliu
+SUMMARY
+Recent Computer Science graduate specializing in front‑end development. Proficient in React and modern JavaScript, with hands‑on experience building responsive web applications through university projects and freelance work. Strong problem‑solving skills and a passion for creating intuitive user experiences.
+SKILLS
+- React, Redux, JavaScript (ES6+)
+- HTML5, CSS3, Sass
+- Git version control
+- RESTful APIs
+- Responsive design, UI/UX basics
+- npm, Webpack
+EXPERIENCE
+University of Colorado Boulder – Front‑End Development Project (Sep 2023 – Dec 2023)
+- Developed a React-based student portal featuring dynamic routing and state management with Redux.
+- Implemented responsive UI using CSS Grid and media queries; achieved mobile‑first design.
+Freelance – Small Business Website (Jan 2023 – Jun 2023)
+- Created a custom React component library for a local bakery’s website, improving load speed by 30%.
+- Integrated Stripe payment API and handled form validation with Yup.
+EDUCATION
+Bachelor of Science in Computer Science, University of Colorado Boulder, 2023
+Relevant coursework: Web Development, UI Design, Data Structures, Algorithms.

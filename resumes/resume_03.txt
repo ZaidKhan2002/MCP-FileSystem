@@ -1,0 +1,12 @@
+NAME
+Atticus Vance
+CONTACT
+atticus.vance@email.com | (555) 123-4567 | Chicago, IL | linkedin.com/in/atticusvance
+SUMMARY
+Experienced Data Scientist with 8 years of expertise in machine learning and predictive analytics within the healthcare sector. Skilled in building ML pipelines using Python and SQL to improve patient outcomes and operational efficiency.
+SKILLS
+Python, Machine Learning, SQL, Predictive Modeling, TensorFlow, Healthcare Data Analytics, Clinical Data Management
+EXPERIENCE
+Senior Data Scientist, Meridian Health Systems, 2016-Present. Developed predictive models for patient readmission and optimized clinical workflows using Python and SQL. Led a team to deploy ML pipelines that reduced operational costs by 15%.
+EDUCATION
+Master of Science in Data Science, Northwestern University, 2016 | Bachelor of Science in Computer Science, University of Illinois, 2014

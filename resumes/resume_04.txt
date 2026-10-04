@@ -1,0 +1,12 @@
+NAME
+Damien C. Okafor
+CONTACT
+email: d.okafor@example.com | phone: (555) 123-4567 | location: Austin, TX
+SUMMARY
+Full Stack Developer with 5 years of experience building MERN stack applications, specializing in e-commerce platforms. Proficient in MongoDB, Express.js, React, and Node.js, with expertise in RESTful API development, database optimization, and responsive front-end design. Collaborative contributor in Agile teams delivering end-to-end web solutions.
+SKILLS
+Languages: JavaScript, TypeScript; Frontend: React, Redux, HTML5, CSS3, Tailwind CSS; Backend: Node.js, Express, REST APIs, GraphQL; Database: MongoDB, Mongoose; Tools: Git, Docker, VS Code, Postman; E-commerce: Payment integration (Stripe, PayPal), cart and inventory management
+EXPERIENCE
+Full Stack Developer at TechNova Solutions (2020–2025). Designed and maintained MERN stack e-commerce platforms serving thousands of daily users. Developed scalable REST APIs and optimized MongoDB schemas for high-concurrency workloads. Implemented responsive UIs with React, improving page load performance. Integrated Stripe and PayPal payment gateways and managed CI/CD pipelines within 2-week Agile sprints.
+EDUCATION
+B.S. in Computer Science, University of Texas at Austin (2018–2021). Relevant coursework included Data Structures, Web Development, Database Systems, and Software Engineering.

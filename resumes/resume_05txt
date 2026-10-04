@@ -1,0 +1,20 @@
+NAME
+Miriam Alvarez
+CONTACT
+Phone: (555) 123-4567
+Email: miriam.alvarez@email.com
+LinkedIn: linkedin.com/in/miriamalvarez
+SUMMARY
+Detail-oriented QA Engineer with 1 year of experience designing and executing automated test suites using Selenium and Python in the retail sector. Proven ability to reduce regression testing time by 30% through script optimization and strong collaboration with cross-functional agile teams.
+SKILLS
+Selenium WebDriver, Python (pytest, unittest), Test Case Design, JIRA, REST API Testing, SQL, Agile/Scrum, Retail domain knowledge, Jenkins CI/CD, Linux basics, Git
+EXPERIENCE
+QA Engineer, ShopMart Inc., Austin, TX — Jun 2023 – Present
+- Developed and maintained over 150 Selenium‑Python automated test scripts for web and mobile retail applications.
+- Executed daily regression suites, identifying critical defects prior to release and decreasing post‑release bugs by 25%.
+- Partnered with developers and product owners in sprint planning to define acceptance criteria and test strategies.
+- Logged and tracked defects in JIRA, providing clear reproduction steps and impact analysis.
+- Contributed to CI pipeline by integrating automated tests into Jenkins, achieving faster feedback loops.
+- Performed API validation using Python requests library to ensure backend services met retail transaction standards.
+EDUCATION
+B.S. Computer Science, University of Texas at Austin — Graduated May 2022

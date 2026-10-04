@@ -1,0 +1,24 @@
+TITLE
+Healthcare Data Scientist
+
+COMPANY
+MediTech Solutions Inc.
+
+REQUIRED_SKILLS
+Python, Machine Learning, SQL, data visualization, statistical analysis, familiarity with healthcare regulations (HIPAA)
+
+EXPERIENCE_REQUIRED
+Minimum three years of full‑time experience building and deploying data science solutions in a healthcare setting.
+
+RESPONSIBILITIES
+- Design, develop, and validate machine learning models to improve patient outcomes and operational efficiency.  
+- Clean, preprocess, and analyze large volumes of electronic health record data using Python and SQL.  
+- Collaborate with clinicians and product teams to translate model insights into actionable recommendations.  
+- Ensure all analyses comply with privacy laws and institutional review board requirements.  
+- Communicate technical findings clearly to non‑technical stakeholders through reports and presentations.
+
+QUALIFICATIONS
+- Bachelor’s degree in Computer Science, Statistics, Public Health, or a related field.  
+- Proven track record of applying Python, machine learning algorithms, and SQL in real‑world projects.  
+- Experience working with healthcare datasets and understanding of clinical terminology.  
+- Strong problem‑solving abilities and ability to deliver results under tight timelines.

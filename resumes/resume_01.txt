@@ -1,0 +1,21 @@
+NAME
+Arjun Mehta
+CONTACT
+Phone: +1 (555) 123-4567
+Email: arjun.mehta@example.com
+LinkedIn: linkedin.com/in/arjunmehta
+SUMMARY
+Backend Developer with 3 years of experience building scalable Python/Django services for fintech applications. Strong background in RESTful API design, database optimization, and cloud deployment.
+SKILLS
+Python, Django, Django REST Framework, PostgreSQL, Redis, Docker, AWS (EC2, RDS, S3), Git, CI/CD, TDD, Agile/Scrum
+EXPERIENCE
+FinTech Solutions Inc., Backend Developer
+June 2021 – Present
+- Developed and maintained core payment processing APIs handling >10K transactions/day.
+- Optimized database queries reducing average response time by 30%.
+- Implemented event-driven architecture using Redis pub/sub for real-time notifications.
+- Containerized services with Docker and deployed to AWS Elastic Beanstalk.
+- Participated in code reviews and mentored junior developers.
+EDUCATION
+Bachelor of Science in Computer Science
+State University, 2018 – 2020

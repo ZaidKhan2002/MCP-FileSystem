@@ -1,0 +1,6 @@
+TITLE: Backend Developer
+COMPANY: Pinnacle Financial Systems
+REQUIRED_SKILLS: Python, SQL, AWS
+EXPERIENCE_REQUIRED: 5+ years of Python development
+RESPONSIBILITIES: Design and maintain scalable backend services and APIs. Optimize SQL databases for high-volume financial data processing. Deploy and manage applications on AWS infrastructure. Collaborate with cross-functional teams to ensure secure transaction processing.
+QUALIFICATIONS: 5+ years of professional backend development experience using Python. Proficiency in SQL database design and query optimization. Hands-on experience with AWS services including EC2, Lambda, and RDS. Familiarity with financial systems, security protocols, and data compliance is required.
